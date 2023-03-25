@@ -1,0 +1,23 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DAL.Repos
+{
+    public class EmployeeRepo
+    {
+       static EmpContext empContext;
+
+        public EmployeeRepo()
+        {
+            empContext = new EmpContext();
+
+        }
+  
+
+
+
+    }
+}

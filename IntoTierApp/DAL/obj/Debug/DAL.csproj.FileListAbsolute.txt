@@ -1,0 +1,14 @@
+E:\Assignment\IntoTierApp\DAL\bin\Debug\DAL.dll.config
+E:\Assignment\IntoTierApp\DAL\bin\Debug\DAL.dll
+E:\Assignment\IntoTierApp\DAL\bin\Debug\DAL.pdb
+E:\Assignment\IntoTierApp\DAL\bin\Debug\EntityFramework.dll
+E:\Assignment\IntoTierApp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Assignment\IntoTierApp\DAL\bin\Debug\EntityFramework.xml
+E:\Assignment\IntoTierApp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Assignment\IntoTierApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Assignment\IntoTierApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Assignment\IntoTierApp\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Assignment\IntoTierApp\DAL\obj\Debug\DAL.dll
+E:\Assignment\IntoTierApp\DAL\obj\Debug\DAL.pdb
+E:\Assignment\IntoTierApp\DAL\obj\Debug\DAL.Migrations.DBInit.resources
+E:\Assignment\IntoTierApp\DAL\obj\Debug\DAL.csproj.GenerateResource.cache

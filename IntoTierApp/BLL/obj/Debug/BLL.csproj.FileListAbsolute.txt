@@ -1,0 +1,12 @@
+E:\Assignment\IntoTierApp\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Assignment\IntoTierApp\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Assignment\IntoTierApp\BLL\bin\Debug\BLL.dll
+E:\Assignment\IntoTierApp\BLL\bin\Debug\BLL.pdb
+E:\Assignment\IntoTierApp\BLL\bin\Debug\DAL.dll
+E:\Assignment\IntoTierApp\BLL\bin\Debug\EntityFramework.dll
+E:\Assignment\IntoTierApp\BLL\bin\Debug\DAL.pdb
+E:\Assignment\IntoTierApp\BLL\bin\Debug\DAL.dll.config
+E:\Assignment\IntoTierApp\BLL\bin\Debug\EntityFramework.xml
+E:\Assignment\IntoTierApp\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Assignment\IntoTierApp\BLL\obj\Debug\BLL.dll
+E:\Assignment\IntoTierApp\BLL\obj\Debug\BLL.pdb
